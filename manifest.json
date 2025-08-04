@@ -1,0 +1,15 @@
+{
+    "name": "Portal",
+    "short_name": "Portal",
+    "start_url": "https://portal.uwaterloo.ca/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+    "icons": [
+        {
+            "src": "icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
